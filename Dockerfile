@@ -1,4 +1,4 @@
-FROM wodby/php:7.1-dev-macos-4.2.2
+FROM wodby/php:5.6-dev-macos-4.4.1
 
 USER root
 
