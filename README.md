@@ -3,7 +3,7 @@ Adding Gulp to Wodby drupal-php
 
 ## Usage
 
-Deisgend to be used in Wodby Docker4Drupal when you need [grunt in your php container](https://github.com/wodby/docker4drupal/issues/253).
+Deisgend to be used in Wodby Docker4Drupal when you need [gulp in your php container](https://github.com/wodby/docker4drupal/issues/253).
 
 ```
   php:
